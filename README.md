@@ -74,5 +74,3 @@
  └── README.md
  ```
  
- ## Next Steps
- Proceed to Phase 2: Database setup and model creation.
